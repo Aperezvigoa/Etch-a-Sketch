@@ -7,7 +7,7 @@ A browser-based Etch-a-Sketch-style sketchpad built using HTML, CSS, and vanilla
 This project is designed to strengthen DOM manipulation skills by creating a dynamic drawing grid where users can paint grid cells with random pastel colors on hover. The sketchpad is interactive, adjustable, and entirely generated and handled via JavaScript—making it a powerful exercise in understanding event-driven programming and layout control.
 
 ## Live Demo
- [Live Demo on GitHub Pages]([https://your-username.github.io/rock_paper_scissors/etch-a-sketch](https://aperezvigoa.github.io/Etch-a-Sketch/))
+ [Live Demo on GitHub Pages](https://aperezvigoa.github.io/Etch-a-Sketch/)
 
 ## Features
 
